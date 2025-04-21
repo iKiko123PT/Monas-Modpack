@@ -1,0 +1,104 @@
+[
+    {
+        "name": "appleskin-fabric-mc1.21.5-3.0.6.jar",
+        "aka": "Apple Skin",
+        "version": "3.0.6",
+        "description": "Adiciona um HUD que mostra a saturação e efeitos da comida."
+    },
+    {
+        "name": "architectury-16.1.4-fabric.jar",
+        "aka": "Architectury",
+        "version": "16.1.4",
+        "description": "Biblioteca para desenvolvimento de mods no Fabric."
+    },
+    {
+        "name": "cloth-config-18.0.145-fabric.jar",
+        "aka": "Cloth-config",
+        "version": "18.0.145",
+        "description": "Biblioteca para criar e gerir configurações de mods."
+    },
+    {
+        "name": "collective-1.21.5-8.3.jar",
+        "aka": "Collective",
+        "version": "8.3",
+        "description": "Biblioteca partilhada usada por vários mods."
+    },
+    {
+        "name": "fabric-api-0.121.0+1.21.5.jar",
+        "aka": "Fabric API",
+        "version": "0.121.0",
+        "description": "Mod Base para todos os Mods."
+    },
+    {
+        "name": "guieffecttimer-1.21.5-1.0.jar",
+        "aka": "GUI Effect Timer",
+        "version": "1.0",
+        "description": "Mostra temporizadores de efeitos no HUD do jogo."
+    },
+    {
+        "name": "inventoryessentials-fabric-1.21.5-21.5.1.jar",
+        "aka": "Inventory Essentials",
+        "version": "21.5.1",
+        "description": "Melhora a organização e gestão do inventário."
+    },
+    {
+        "name": "iris-fabric-1.8.1+mc1.21.5.jar",
+        "aka": "Iris",
+        "version": "1.8.1",
+        "description": "Permite o uso de shaders e melhora o desempenho com Iris."
+    },
+    {
+        "name": "oreharvester-1.21.5-1.5 (1).jar",
+        "aka": "Ore Harvester",
+        "version": "1.5",
+        "description": "Colhe automaticamente os minérios ao serem minerados."
+    },
+    {
+        "name": "quickrightclick-1.21.5-1.7.jar",
+        "aka": "Quick Right Click",
+        "version": "1.7",
+        "description": "Permite o uso da cama, crafting table ou outras cenas de craft sem que a tenhas de colocar no chão"
+    },
+    {
+        "name": "RoughlyEnoughItems-19.0.806-fabric.jar",
+        "aka": "Rei",
+        "version": "19.0.806",
+        "description": "Visualizador de itens e receitas (REI)."
+    },
+    {
+        "name": "sodiumdynamiclights-fabric-1.0.10-1.21.5.jar",
+        "aka": "Sodium Dynamic Lights",
+        "version": "1.0.10",
+        "description": "Adiciona iluminação dinâmica compatível com Sodium."
+    },
+    {
+        "name": "sodium-fabric-0.6.13+mc1.21.5.jar",
+        "aka": "Sodium",
+        "version": "0.6.13",
+        "description": "Aumenta drasticamente o desempenho do Minecraft."
+    },
+    {
+        "name": "stickyenchantinglapis-1.21.5-1.5.jar",
+        "aka": "Sticky Enchanting Lapis",
+        "version": "1.5",
+        "description": "Mantém o lápis-lazúli na mesa de encantamento."
+    },
+    {
+        "name": "travelersbackpack-fabric-1.21.5-10.5.1.jar",
+        "aka": "Travelers Backpack",
+        "version": "10.5.1",
+        "description": "Adiciona mochilas personalizáveis com inventário extra."
+    },
+    {
+        "name": "Xaeros_Minimap_25.2.4_Fabric_1.21.5.jar",
+        "aka": "Xaeros Minimap",
+        "version": "25.2.4",
+        "description": "Minimapa com marcadores e visualização em tempo real."
+    },
+    {
+        "name": "XaerosWorldMap_1.39.7_Fabric_1.21.5.jar",
+        "aka": "Xaeros Worldmap",
+        "version": "1.39.7",
+        "description": "Mapa mundial interativo compatível com o Xaero’s Minimap."
+    }
+]
